@@ -1,5 +1,15 @@
 **Hello-Habrahabr** is a helloworld-type application to illustrate Mithgol's blog entries on Habrahabr.Ru about node-webkit.
 
+## Running the application
+
+1. Download https://github.com/Mithgol/Hello-Habrahabr/archive/master.zip and unpack to some folder.
+
+2. Download [node-webkit](https://github.com/rogerwang/node-webkit) and unpack to the same folder.
+
+3. Run node-webkit.
+
+(You may also unpack node-webkit to some other folder and run `nw /path/to/Hello-Habrahabr`.)
+
 ## License
 
 The source code is MIT-licensed (see `LICENSE`), with the following exceptions:
