@@ -18,7 +18,7 @@
 
 The source code is MIT-licensed (see `LICENSE`), with the following exceptions:
 
-* The file `$.js` contains jQuery, which is also [MIT-licensed,](https://jquery.org/license/) but Mithgol is **not** a jQuery's author.
+* The file `$.js` contains [jQuery](http://jquery.com/), which is also [MIT-licensed,](https://jquery.org/license/) but Mithgol is **not** a jQuery's author.
 
 * The photo (`alley.jpg`) is shared on the terms of [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license. (Mithgol is the author.)
 
