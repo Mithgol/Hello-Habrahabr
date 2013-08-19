@@ -1,10 +1,14 @@
 **Hello-Habrahabr** is a helloworld-type application to illustrate Mithgol's blog entries on Habrahabr.Ru about node-webkit.
 
+## Screenshot
+
+![(screenshot)](http://habrastorage.org/storage2/844/e13/fd3/844e13fd3e5ed52e081a6c3a992f1c1e.png)
+
 ## Running the application
 
 1. Download https://github.com/Mithgol/Hello-Habrahabr/archive/master.zip and unpack to some folder.
 
-2. Download [node-webkit](https://github.com/rogerwang/node-webkit) and unpack to the same folder.
+2. Download [node-webkit](https://github.com/rogerwang/node-webkit) (the engine, not the source) and unpack to the same folder.
 
 3. Run node-webkit.
 
