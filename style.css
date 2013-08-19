@@ -1,0 +1,50 @@
+@font-face {
+   font-family: 'PTMonoBold';
+   src: url('PTM75F_W.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+}
+
+body, html {
+width: 100%; height: 100%;
+margin: 0;
+}
+
+body {
+background-color: #fff;
+background-image: url(alley.jpg);
+background-size: cover;
+}
+
+h1 {
+text-align: center;
+font: 70px/1.1 PTMonoBold;
+color: #000;
+text-shadow:
+   0 -1px 3px #fff,
+   1px -1px 3px #fff,
+   1px 0px 3px #fff,
+   1px 1px 3px #fff,
+   0 1px 3px #fff,
+   -1px 1px 3px #fff,
+   -1px 0 3px #fff,
+   -1px -1px 3px #fff;
+position: absolute; top: 35%; margin-top: -2em; width: 100%;
+}
+
+P {
+text-align: center;
+font: bold 20px sans-serif;
+color: #000;
+text-shadow:
+   0 -1px 2px #fff,
+   1px -1px 2px #fff,
+   1px 0px 2px #fff,
+   1px 1px 2px #fff,
+   0 1px 2px #fff,
+   -1px 1px 2px #fff,
+   -1px 0 2px #fff,
+   -1px -1px 2px #fff;
+position: absolute; top: 47%; margin: 1em 0 0; width: 100%; padding: 0 3em;
+box-sizing: border-box;
+}

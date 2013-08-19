@@ -1,0 +1,13 @@
+{
+  "name": "phido",
+  "main": "index.html",
+  "window": {
+    "width": 600,
+    "height": 400,
+    "position": "center",
+    "toolbar": false,
+    "title": "Starting...",
+    "resizable": false,
+    "icon": "habr.ico"
+  }
+}
