@@ -1,4 +1,4 @@
-**Hello-Habrahabr** is a helloworld-type application to illustrate Mithgol's blog entries on Habrahabr.Ru about node-webkit.
+**“Hello Habrahabr!”** is a helloworld-type application to illustrate Mithgol's blog entries on Habrahabr.Ru about node-webkit.
 
 ## Screenshot
 
