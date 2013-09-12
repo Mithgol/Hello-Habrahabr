@@ -12,8 +12,9 @@ $(function(){
       '<p class="report">Работает <nobr>node-webkit</nobr> <nobr>версии ' +
       process.versions['node-webkit'] +
       '</nobr><br><nobr>на движке</nobr> Node.js <nobr>версии ' +
-      process.versions.node + '</nobr> <nobr>на процессоре ' +
-      process.arch + '</nobr> <nobr>под управлением ' +
+      process.versions.node + '</nobr> <nobr>и на движке Chromium ' +
+      process.versions.chromium + ',</nobr> <nobr>на процессоре ' +
+      process.arch + ' под управлением ' +
       process.platform + '.</nobr></p>'
    );
    $('.report').on('click', function(){
